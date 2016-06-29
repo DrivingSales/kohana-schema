@@ -1,5 +1,5 @@
 {
-    "name": "evopix/kohana-schema",
+    "name": "drivingsales/kohana-schema",
     "type": "kohana-module",
     "description": "This is a port of Laravels Schema library to Kohana. It provides a database agnostic way of manipulating tables. It works well with all of the databases supported by Doctrine DBAL, and has a unified API across all of these systems.",
     "license": "MIT",
